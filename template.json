@@ -1,0 +1,4 @@
+{
+  "mtemplate": "20s'M1'[bowl]; 10s'M2'[bell]; 30s'M3'[bell]; 5s'M4'[bell]",
+  "meditation_hour": "10s'Ready'[bowl];30m'1st Session'[bowl];30m'2nd Session'[tingle]"
+}
