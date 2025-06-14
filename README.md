@@ -1,5 +1,7 @@
 # cli-interval-timer
-A simple Command Line interval timer
+A simple Command Line interval timer. Made it in like a hour.
+---
+![cmd_BRNOiYN3EH](https://github.com/user-attachments/assets/eba68322-4351-4580-8d8c-0b9e113ceb38)
 ---
 ## How to Use
 I didn't provide the guide in the command (my bad). So here's how:
@@ -21,9 +23,12 @@ timer {template_name} // Run a saved timer with template_name. For test, you can
 <Q> // Force quit
 
 ```
-
+# Requirements
+`rich playsound keyboard asyncio`
 ---
 ## Set-Up
+Make sure you installed the requirements already
+
 1. Clone this repo to your `C:/Users/[your-name]` as `bin` (I assume you know how)
 2. Go to `Computer`, right shift and click `Property`, go to `Advanced`, and `Click` Environmental Variables
 3. On `System Variables`, choose Path and click `Edit`
