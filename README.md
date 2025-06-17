@@ -1,5 +1,5 @@
 # cli-interval-timer
-A simple Command Line interval timer. Made it in like a hour.
+A simple Command Line interval timer. Made it in like a hour. I made it this to help me with my meditaiton, because sometimes I only brought laptop. Lol.
 ---
 ![cmd_BRNOiYN3EH](https://github.com/user-attachments/assets/eba68322-4351-4580-8d8c-0b9e113ceb38)
 ---
@@ -26,7 +26,11 @@ timer {template_name} // Run a saved timer with template_name. For test, you can
 # Requirements
 `rich playsound keyboard asyncio`
 ---
-## Set-Up
+## Set
+### Fresh Start
+1. On your terminal, run `python timer.py  1m20s'TEST' [bowl]` for example
+   
+### By PATH, meaning you can use it in any directory (recommended)
 Make sure you installed the requirements already
 
 1. Clone this repo to your `C:/Users/[your-name]` as `bin` (I assume you know how)
